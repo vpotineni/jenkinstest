@@ -8,6 +8,7 @@ public class Testing{
 	public static void main(String args[])
 {
 		System.out.println("Addition is" + add(10,30));
+		System.out.println("Addition is "+add(10,40));
 }
 }
 
